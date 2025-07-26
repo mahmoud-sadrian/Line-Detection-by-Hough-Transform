@@ -1,1 +1,1 @@
-# Line-Detection-By-Hough-Transform
+# Line Detection by Hough Transform
