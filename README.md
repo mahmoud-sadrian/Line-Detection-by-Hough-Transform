@@ -6,6 +6,7 @@ A Python implementation of the Hough Transform algorithm for line detection in i
 ```
 Line-Detection-by-Hough-Transform/
 ├── images/                  # Test images
+├── LICENSE
 ├── Line-Detection-by-Hough-Transform.py    # Main script
 ├── Line-Detection-by-Hough-Transform.ipynb # Jupyter notebook
 └── README.md
