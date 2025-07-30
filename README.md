@@ -2,15 +2,14 @@
 
 A Python implementation of the Hough Transform algorithm for line detection in images, built from scratch without using OpenCV's built-in Hough functions.
 
-## Repository Structure
-```
-Line-Detection-by-Hough-Transform/
-├── images/                  # Test images
-├── LICENSE
-├── Line-Detection-by-Hough-Transform.py    # Main script
-├── Line-Detection-by-Hough-Transform.ipynb # Jupyter notebook
-└── README.md
-```
+## 📂 Project Structure
+
+📦 Line-Detection-by-Hough-Transform  
+├── 📂 [images/](images/)                 # 🖼️ Test images  
+├── 📜 [LICENSE](LICENSE)                # ⚖️ License file  
+├── 📜 [Line-Detection-by-Hough-Transform.py](Line-Detection-by-Hough-Transform.py)    # 🐍 Main Python script  
+├── 📜 [Line-Detection-by-Hough-Transform.ipynb](Line-Detection-by-Hough-Transform.ipynb) # 📓 Jupyter notebook  
+└── 📜 [README.md](README.md)            # 📖 Project documentation  
 
 ## Installation
 ```bash
