@@ -5,11 +5,11 @@ A Python implementation of the Hough Transform algorithm for line detection in i
 ## 📂 Project Structure
 
 📦 Line-Detection-by-Hough-Transform  
-├── 📂 [images/](images/)                 # 🖼️ Test images  
-├── 📜 [LICENSE](LICENSE)                # ⚖️ License file  
-├── 📜 [Line-Detection-by-Hough-Transform.py](Line-Detection-by-Hough-Transform.py)    # 🐍 Main Python script  
-├── 📜 [Line-Detection-by-Hough-Transform.ipynb](Line-Detection-by-Hough-Transform.ipynb) # 📓 Jupyter notebook  
-└── 📜 [README.md](README.md)            # 📖 Project documentation  
+├── 🖼️ [images/](images/)                 # Test images  
+├── ⚖️ [LICENSE](LICENSE)                # License file  
+├── 🐍 [Line-Detection-by-Hough-Transform.py](Line-Detection-by-Hough-Transform.py)    # Main Python script  
+├── 📓 [Line-Detection-by-Hough-Transform.ipynb](Line-Detection-by-Hough-Transform.ipynb) # Jupyter notebook  
+└── 📖 [README.md](README.md)            # Project documentation  
 
 ## Installation
 ```bash
